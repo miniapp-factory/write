@@ -1,3 +1,3 @@
-export const title = "Mini App Factory App";
-export const description = "This app was created by the Mini App Factory!";
+export const title = "Article Tokenizer";
+export const description = "Tokenize and sell articles linked to wallet addresses.";
 export const url = process.env.NEXT_PUBLIC_URL;
